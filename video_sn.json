@@ -1,0 +1,625 @@
+[
+    {
+        "season": 1,
+        "season_episode": 1,
+        "episode": 1,
+        "video_sn": 3499,
+        "title": "給二千年後的你"
+    },
+    {
+        "season": 1,
+        "season_episode": 2,
+        "episode": 2,
+        "video_sn": 3500,
+        "title": "那一天"
+    },
+    {
+        "season": 1,
+        "season_episode": 3,
+        "episode": 3,
+        "video_sn": 3514,
+        "title": "絕望中的微微亮光"
+    },
+    {
+        "season": 1,
+        "season_episode": 4,
+        "episode": 4,
+        "video_sn": 3515,
+        "title": "解散儀式當晚"
+    },
+    {
+        "season": 1,
+        "season_episode": 5,
+        "episode": 5,
+        "video_sn": 3501,
+        "title": "初陣"
+    },
+    {
+        "season": 1,
+        "season_episode": 6,
+        "episode": 6,
+        "video_sn": 3502,
+        "title": "少女目睹的世界"
+    },
+    {
+        "season": 1,
+        "season_episode": 7,
+        "episode": 7,
+        "video_sn": 3503,
+        "title": "小小刀刃"
+    },
+    {
+        "season": 1,
+        "season_episode": 8,
+        "episode": 8,
+        "video_sn": 3504,
+        "title": "聽見心臟的鼓動"
+    },
+    {
+        "season": 1,
+        "season_episode": 9,
+        "episode": 9,
+        "video_sn": 3505,
+        "title": "左手的下落"
+    },
+    {
+        "season": 1,
+        "season_episode": 10,
+        "episode": 10,
+        "video_sn": 3516,
+        "title": "回應"
+    },
+    {
+        "season": 1,
+        "season_episode": 11,
+        "episode": 11,
+        "video_sn": 3517,
+        "title": "偶像"
+    },
+    {
+        "season": 1,
+        "season_episode": 12,
+        "episode": 12,
+        "video_sn": 3506,
+        "title": "傷"
+    },
+    {
+        "season": 1,
+        "season_episode": 13,
+        "episode": 13,
+        "video_sn": 3507,
+        "title": "原始的慾望"
+    },
+    {
+        "season": 1,
+        "season_episode": 14,
+        "episode": 14,
+        "video_sn": 3518,
+        "title": "依舊無法直視對方"
+    },
+    {
+        "season": 1,
+        "season_episode": 15,
+        "episode": 15,
+        "video_sn": 3508,
+        "title": "特別作戰組"
+    },
+    {
+        "season": 1,
+        "season_episode": 16,
+        "episode": 16,
+        "video_sn": 3519,
+        "title": "現在，應該怎麼做"
+    },
+    {
+        "season": 1,
+        "season_episode": 17,
+        "episode": 17,
+        "video_sn": 3509,
+        "title": "女巨人"
+    },
+    {
+        "season": 1,
+        "season_episode": 18,
+        "episode": 18,
+        "video_sn": 3510,
+        "title": "巨木森林"
+    },
+    {
+        "season": 1,
+        "season_episode": 19,
+        "episode": 19,
+        "video_sn": 3520,
+        "title": "緊咬不放"
+    },
+    {
+        "season": 1,
+        "season_episode": 20,
+        "episode": 20,
+        "video_sn": 3521,
+        "title": "艾爾文·史密斯"
+    },
+    {
+        "season": 1,
+        "season_episode": 21,
+        "episode": 21,
+        "video_sn": 3511,
+        "title": "鐵槌"
+    },
+    {
+        "season": 1,
+        "season_episode": 22,
+        "episode": 22,
+        "video_sn": 3512,
+        "title": "失敗者們"
+    },
+    {
+        "season": 1,
+        "season_episode": 23,
+        "episode": 23,
+        "video_sn": 3522,
+        "title": "微笑"
+    },
+    {
+        "season": 1,
+        "season_episode": 24,
+        "episode": 24,
+        "video_sn": 3523,
+        "title": "慈悲"
+    },
+    {
+        "season": 1,
+        "season_episode": 25,
+        "episode": 25,
+        "video_sn": 3513,
+        "title": "牆"
+    },
+    {
+        "season": 2,
+        "season_episode": 1,
+        "episode": 26,
+        "video_sn": 7583,
+        "title": "獸之巨人"
+    },
+    {
+        "season": 2,
+        "season_episode": 2,
+        "episode": 27,
+        "video_sn": 7595,
+        "title": "我回來了"
+    },
+    {
+        "season": 2,
+        "season_episode": 3,
+        "episode": 28,
+        "video_sn": 7618,
+        "title": "往西南"
+    },
+    {
+        "season": 2,
+        "season_episode": 4,
+        "episode": 29,
+        "video_sn": 7650,
+        "title": "士兵"
+    },
+    {
+        "season": 2,
+        "season_episode": 5,
+        "episode": 30,
+        "video_sn": 7703,
+        "title": "希絲特莉亞"
+    },
+    {
+        "season": 2,
+        "season_episode": 6,
+        "episode": 31,
+        "video_sn": 7704,
+        "title": "戰士"
+    },
+    {
+        "season": 2,
+        "season_episode": 7,
+        "episode": 32,
+        "video_sn": 7735,
+        "title": "打・投・極"
+    },
+    {
+        "season": 2,
+        "season_episode": 8,
+        "episode": 33,
+        "video_sn": 7758,
+        "title": "追擊者"
+    },
+    {
+        "season": 2,
+        "season_episode": 9,
+        "episode": 34,
+        "video_sn": 7792,
+        "title": "開口"
+    },
+    {
+        "season": 2,
+        "season_episode": 10,
+        "episode": 35,
+        "video_sn": 7925,
+        "title": "孩子們"
+    },
+    {
+        "season": 2,
+        "season_episode": 11,
+        "episode": 36,
+        "video_sn": 8063,
+        "title": "突擊"
+    },
+    {
+        "season": 2,
+        "season_episode": 12,
+        "episode": 37,
+        "video_sn": 8111,
+        "title": "怒吼"
+    },
+    {
+        "season": 3,
+        "season_episode": 1,
+        "episode": 38,
+        "video_sn": 10484,
+        "title": "狼煙"
+    },
+    {
+        "season": 3,
+        "season_episode": 2,
+        "episode": 39,
+        "video_sn": 10485,
+        "title": "傷痛"
+    },
+    {
+        "season": 3,
+        "season_episode": 3,
+        "episode": 40,
+        "video_sn": 10486,
+        "title": "過往"
+    },
+    {
+        "season": 3,
+        "season_episode": 4,
+        "episode": 41,
+        "video_sn": 10487,
+        "title": "信賴"
+    },
+    {
+        "season": 3,
+        "season_episode": 5,
+        "episode": 42,
+        "video_sn": 10488,
+        "title": "答覆"
+    },
+    {
+        "season": 3,
+        "season_episode": 6,
+        "episode": 43,
+        "video_sn": 10697,
+        "title": "罪孽"
+    },
+    {
+        "season": 3,
+        "season_episode": 7,
+        "episode": 44,
+        "video_sn": 10698,
+        "title": "願望"
+    },
+    {
+        "season": 3,
+        "season_episode": 8,
+        "episode": 45,
+        "video_sn": 10699,
+        "title": "奧爾福德區外牆"
+    },
+    {
+        "season": 3,
+        "season_episode": 9,
+        "episode": 46,
+        "video_sn": 10700,
+        "title": "城牆之王"
+    },
+    {
+        "season": 3,
+        "season_episode": 10,
+        "episode": 47,
+        "video_sn": 10766,
+        "title": "友人"
+    },
+    {
+        "season": 3,
+        "season_episode": 11,
+        "episode": 48,
+        "video_sn": 10767,
+        "title": "旁觀者"
+    },
+    {
+        "season": 3,
+        "season_episode": 12,
+        "episode": 49,
+        "video_sn": 10768,
+        "title": "奪還作戰的夜晚"
+    },
+    {
+        "season": 3,
+        "season_episode": 13,
+        "episode": 50,
+        "video_sn": 12091,
+        "title": "初始的街道"
+    },
+    {
+        "season": 3,
+        "season_episode": 14,
+        "episode": 51,
+        "video_sn": 12217,
+        "title": "雷槍"
+    },
+    {
+        "season": 3,
+        "season_episode": 15,
+        "episode": 52,
+        "video_sn": 12226,
+        "title": "光臨"
+    },
+    {
+        "season": 3,
+        "season_episode": 16,
+        "episode": 53,
+        "video_sn": 12227,
+        "title": "完全比賽"
+    },
+    {
+        "season": 3,
+        "season_episode": 17,
+        "episode": 54,
+        "video_sn": 12229,
+        "title": "勇者"
+    },
+    {
+        "season": 3,
+        "season_episode": 18,
+        "episode": 55,
+        "video_sn": 12280,
+        "title": "白夜"
+    },
+    {
+        "season": 3,
+        "season_episode": 19,
+        "episode": 56,
+        "video_sn": 12379,
+        "title": "地下室"
+    },
+    {
+        "season": 3,
+        "season_episode": 20,
+        "episode": 57,
+        "video_sn": 12380,
+        "title": "那一天"
+    },
+    {
+        "season": 3,
+        "season_episode": 21,
+        "episode": 58,
+        "video_sn": 12468,
+        "title": "進擊的巨人"
+    },
+    {
+        "season": 3,
+        "season_episode": 22,
+        "episode": 59,
+        "video_sn": 12469,
+        "title": "城牆的另一端"
+    },
+    {
+        "season": 4,
+        "season_episode": 1,
+        "episode": 60,
+        "video_sn": 19849,
+        "title": "海的另一端"
+    },
+    {
+        "season": 4,
+        "season_episode": 2,
+        "episode": 61,
+        "video_sn": 19850,
+        "title": "黑夜的列車"
+    },
+    {
+        "season": 4,
+        "season_episode": 3,
+        "episode": 62,
+        "video_sn": 19959,
+        "title": "希望的門扉"
+    },
+    {
+        "season": 4,
+        "season_episode": 4,
+        "episode": 63,
+        "video_sn": 19960,
+        "title": "手手相傳"
+    },
+    {
+        "season": 4,
+        "season_episode": 5,
+        "episode": 64,
+        "video_sn": 20334,
+        "title": "開戰宣言"
+    },
+    {
+        "season": 4,
+        "season_episode": 6,
+        "episode": 65,
+        "video_sn": 20335,
+        "title": "戰錘巨人"
+    },
+    {
+        "season": 4,
+        "season_episode": 7,
+        "episode": 66,
+        "video_sn": 20674,
+        "title": "強襲"
+    },
+    {
+        "season": 4,
+        "season_episode": 8,
+        "episode": 67,
+        "video_sn": 20675,
+        "title": "凶彈"
+    },
+    {
+        "season": 4,
+        "season_episode": 9,
+        "episode": 68,
+        "video_sn": 21074,
+        "title": "義勇兵"
+    },
+    {
+        "season": 4,
+        "season_episode": 10,
+        "episode": 69,
+        "video_sn": 21075,
+        "title": "正論"
+    },
+    {
+        "season": 4,
+        "season_episode": 11,
+        "episode": 70,
+        "video_sn": 21388,
+        "title": "虛偽之人"
+    },
+    {
+        "season": 4,
+        "season_episode": 12,
+        "episode": 71,
+        "video_sn": 21389,
+        "title": "指引"
+    },
+    {
+        "season": 4,
+        "season_episode": 13,
+        "episode": 72,
+        "video_sn": 21512,
+        "title": "森林裡的孩子們"
+    },
+    {
+        "season": 4,
+        "season_episode": 14,
+        "episode": 73,
+        "video_sn": 21513,
+        "title": "殘暴"
+    },
+    {
+        "season": 4,
+        "season_episode": 15,
+        "episode": 74,
+        "video_sn": 21784,
+        "title": "唯一的救贖"
+    },
+    {
+        "season": 4,
+        "season_episode": 16,
+        "episode": 75,
+        "video_sn": 21785,
+        "title": "天地"
+    },
+    {
+        "season": 4,
+        "season_episode": 17,
+        "episode": 76,
+        "video_sn": 27443,
+        "title": "定罪"
+    },
+    {
+        "season": 4,
+        "season_episode": 18,
+        "episode": 77,
+        "video_sn": 27754,
+        "title": "暗算"
+    },
+    {
+        "season": 4,
+        "season_episode": 19,
+        "episode": 78,
+        "video_sn": 27755,
+        "title": "兄與弟"
+    },
+    {
+        "season": 4,
+        "season_episode": 20,
+        "episode": 79,
+        "video_sn": 27756,
+        "title": "未來的記憶"
+    },
+    {
+        "season": 4,
+        "season_episode": 21,
+        "episode": 80,
+        "video_sn": 27919,
+        "title": "兩千年前的你留下的..."
+    },
+    {
+        "season": 4,
+        "season_episode": 22,
+        "episode": 81,
+        "video_sn": 27920,
+        "title": "冰釋"
+    },
+    {
+        "season": 4,
+        "season_episode": 23,
+        "episode": 82,
+        "video_sn": 28283,
+        "title": "晚霞"
+    },
+    {
+        "season": 4,
+        "season_episode": 24,
+        "episode": 83,
+        "video_sn": 28284,
+        "title": "尊嚴"
+    },
+    {
+        "season": 4,
+        "season_episode": 25,
+        "episode": 84,
+        "video_sn": 28285,
+        "title": "末日之夜"
+    },
+    {
+        "season": 4,
+        "season_episode": 26,
+        "episode": 85,
+        "video_sn": 28626,
+        "title": "叛徒"
+    },
+    {
+        "season": 4,
+        "season_episode": 27,
+        "episode": 86,
+        "video_sn": 28627,
+        "title": "回首"
+    },
+    {
+        "season": 4,
+        "season_episode": 28,
+        "episode": 87,
+        "video_sn": 28628,
+        "title": "人類的黎明"
+    },
+    {
+        "season": 5,
+        "season_episode": 1,
+        "episode": 88,
+        "video_sn": 33047,
+        "title": "完結篇（前篇）"
+    },
+    {
+        "season": 5,
+        "season_episode": 2,
+        "episode": 89,
+        "video_sn": 35985,
+        "title": "完結篇（後篇）"
+    }
+]
